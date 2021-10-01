@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/joe/Learn/C++/Exercises/Stroustrup/Ch3/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -I/home/joe/Learn/C++/Exercises/Stroustrup/Ch3/../include -g -o CMakeFiles/Ch3.dir/src/Ch3Main.cpp.o -c /home/joe/Learn/C++/Exercises/Stroustrup/Ch3/src/Ch3Main.cpp",
+  "file": "/home/joe/Learn/C++/Exercises/Stroustrup/Ch3/src/Ch3Main.cpp"
+},
+{
+  "directory": "/home/joe/Learn/C++/Exercises/Stroustrup/Ch3/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -I/home/joe/Learn/C++/Exercises/Stroustrup/Ch3/../include -g -o CMakeFiles/Ch3.dir/src/E4.cpp.o -c /home/joe/Learn/C++/Exercises/Stroustrup/Ch3/src/E4.cpp",
+  "file": "/home/joe/Learn/C++/Exercises/Stroustrup/Ch3/src/E4.cpp"
+},
+{
+  "directory": "/home/joe/Learn/C++/Exercises/Stroustrup/Ch3/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -I/home/joe/Learn/C++/Exercises/Stroustrup/Ch3/../include -g -o CMakeFiles/Ch3.dir/src/E6.cpp.o -c /home/joe/Learn/C++/Exercises/Stroustrup/Ch3/src/E6.cpp",
+  "file": "/home/joe/Learn/C++/Exercises/Stroustrup/Ch3/src/E6.cpp"
+}
+]
