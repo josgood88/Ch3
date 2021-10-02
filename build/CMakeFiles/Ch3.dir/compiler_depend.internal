@@ -426,3 +426,8 @@ CMakeFiles/Ch3.dir/src/E6.cpp.o
  /usr/include/c++/9/istream
  /usr/include/c++/9/bits/istream.tcc
 
+CMakeFiles/Ch3.dir/src/E8.cpp.o
+ /home/joe/Learn/C++/Exercises/Stroustrup/Ch3/src/E8.cpp
+ /usr/include/stdc-predef.h
+ /home/joe/Learn/C++/Exercises/Stroustrup/Ch3/include/Exercises.h
+

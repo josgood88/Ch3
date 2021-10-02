@@ -595,6 +595,30 @@ src/E6.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Ch3.dir/build.make CMakeFiles/Ch3.dir/src/E6.cpp.s
 .PHONY : src/E6.cpp.s
 
+src/E8.o: src/E8.cpp.o
+.PHONY : src/E8.o
+
+# target to build an object file
+src/E8.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Ch3.dir/build.make CMakeFiles/Ch3.dir/src/E8.cpp.o
+.PHONY : src/E8.cpp.o
+
+src/E8.i: src/E8.cpp.i
+.PHONY : src/E8.i
+
+# target to preprocess a source file
+src/E8.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Ch3.dir/build.make CMakeFiles/Ch3.dir/src/E8.cpp.i
+.PHONY : src/E8.cpp.i
+
+src/E8.s: src/E8.cpp.s
+.PHONY : src/E8.s
+
+# target to generate assembly for a file
+src/E8.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Ch3.dir/build.make CMakeFiles/Ch3.dir/src/E8.cpp.s
+.PHONY : src/E8.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -644,6 +668,9 @@ help:
 	@echo "... src/E6.o"
 	@echo "... src/E6.i"
 	@echo "... src/E6.s"
+	@echo "... src/E8.o"
+	@echo "... src/E8.i"
+	@echo "... src/E8.s"
 .PHONY : help
 
 

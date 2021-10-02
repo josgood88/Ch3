@@ -423,6 +423,12 @@ CMakeFiles/Ch3.dir/src/E6.cpp.o: ../src/E6.cpp \
   /usr/include/c++/9/istream \
   /usr/include/c++/9/bits/istream.tcc
 
+CMakeFiles/Ch3.dir/src/E8.cpp.o: ../src/E8.cpp \
+  /usr/include/stdc-predef.h \
+  ../include/Exercises.h
+
+
+../src/E8.cpp:
 
 /usr/include/c++/9/bits/istream.tcc:
 
