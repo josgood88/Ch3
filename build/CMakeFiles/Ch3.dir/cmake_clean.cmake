@@ -7,6 +7,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Ch3.dir/src/E6.cpp.o.d"
   "CMakeFiles/Ch3.dir/src/E8.cpp.o"
   "CMakeFiles/Ch3.dir/src/E8.cpp.o.d"
+  "CMakeFiles/Ch3.dir/src/E9.cpp.o"
+  "CMakeFiles/Ch3.dir/src/E9.cpp.o.d"
   "Ch3"
   "Ch3.pdb"
 )

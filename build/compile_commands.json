@@ -18,5 +18,10 @@
   "directory": "/home/joe/Learn/C++/Exercises/Stroustrup/Ch3/build",
   "command": "/bin/x86_64-linux-gnu-g++-9  -I/home/joe/Learn/C++/Exercises/Stroustrup/Ch3/../include -g -std=gnu++17 -o CMakeFiles/Ch3.dir/src/E8.cpp.o -c /home/joe/Learn/C++/Exercises/Stroustrup/Ch3/src/E8.cpp",
   "file": "/home/joe/Learn/C++/Exercises/Stroustrup/Ch3/src/E8.cpp"
+},
+{
+  "directory": "/home/joe/Learn/C++/Exercises/Stroustrup/Ch3/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -I/home/joe/Learn/C++/Exercises/Stroustrup/Ch3/../include -g -std=gnu++17 -o CMakeFiles/Ch3.dir/src/E9.cpp.o -c /home/joe/Learn/C++/Exercises/Stroustrup/Ch3/src/E9.cpp",
+  "file": "/home/joe/Learn/C++/Exercises/Stroustrup/Ch3/src/E9.cpp"
 }
 ]
