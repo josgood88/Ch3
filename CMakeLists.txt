@@ -4,6 +4,7 @@ project(Ch3 VERSION 0.1.0)
 include(CTest)
 enable_testing()
 
+set(CMAKE_CXX_STANDARD 17)
 include_directories(../include)
 file (GLOB SOURCES src/*.cpp)   # file(GLOB...) allows for wildcard additions:
 add_executable(Ch3 ${SOURCES})

@@ -11,9 +11,7 @@ namespace {
       v.push_back(std::get<1>(t));
       v.push_back(std::get<2>(t));
       std::sort(v.begin(),v.end());
-      auto itr = v.begin();
-      auto result = std::make_tuple(*itr++,*itr++,*itr);
-      return result;
+      return std::make_tuple(v[0],v[1],v[2]);
    }
 
    bool IsCorrect(std::tuple<int,int,int> test_item, std::tuple<int,int,int> correct_answer) {
@@ -23,7 +21,11 @@ namespace {
                 << (is_correct ? "Correct" : "Wrong") << " result for ("
                 << std::get<0>(test_item) << ", "
                 << std::get<1>(test_item) << ", "
-                << std::get<2>(test_item) << ").\n";
+                << std::get<2>(test_item) << ") -- ";
+auto [ a1, a2, a3 ] = test_result;
+auto [ b1, b2, b3 ] = correct_answer;
+std::cout << a1    << "," << a2    << "," << a3 << " | " << b1 << "," << b2 << "," << b3 << "\n";
+
       return is_correct;
    }
 }
