@@ -547,6 +547,30 @@ src/Ch3Main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Ch3.dir/build.make CMakeFiles/Ch3.dir/src/Ch3Main.cpp.s
 .PHONY : src/Ch3Main.cpp.s
 
+src/E10.o: src/E10.cpp.o
+.PHONY : src/E10.o
+
+# target to build an object file
+src/E10.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Ch3.dir/build.make CMakeFiles/Ch3.dir/src/E10.cpp.o
+.PHONY : src/E10.cpp.o
+
+src/E10.i: src/E10.cpp.i
+.PHONY : src/E10.i
+
+# target to preprocess a source file
+src/E10.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Ch3.dir/build.make CMakeFiles/Ch3.dir/src/E10.cpp.i
+.PHONY : src/E10.cpp.i
+
+src/E10.s: src/E10.cpp.s
+.PHONY : src/E10.s
+
+# target to generate assembly for a file
+src/E10.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Ch3.dir/build.make CMakeFiles/Ch3.dir/src/E10.cpp.s
+.PHONY : src/E10.cpp.s
+
 src/E4.o: src/E4.cpp.o
 .PHONY : src/E4.o
 
@@ -686,6 +710,9 @@ help:
 	@echo "... src/Ch3Main.o"
 	@echo "... src/Ch3Main.i"
 	@echo "... src/Ch3Main.s"
+	@echo "... src/E10.o"
+	@echo "... src/E10.i"
+	@echo "... src/E10.s"
 	@echo "... src/E4.o"
 	@echo "... src/E4.i"
 	@echo "... src/E4.s"

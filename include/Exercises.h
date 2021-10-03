@@ -5,4 +5,5 @@ public:
    void E6();
    void E8();
    void E9();
+   void E10();
 };

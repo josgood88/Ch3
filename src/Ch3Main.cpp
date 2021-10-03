@@ -6,5 +6,6 @@ int main(int, char**) {
     obj.E6();
     obj.E8();
     obj.E9();
+    obj.E10();
     return 0;
 }

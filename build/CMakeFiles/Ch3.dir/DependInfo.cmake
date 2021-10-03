@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/joe/Learn/C++/Exercises/Stroustrup/Ch3/src/Ch3Main.cpp" "CMakeFiles/Ch3.dir/src/Ch3Main.cpp.o" "gcc" "CMakeFiles/Ch3.dir/src/Ch3Main.cpp.o.d"
+  "/home/joe/Learn/C++/Exercises/Stroustrup/Ch3/src/E10.cpp" "CMakeFiles/Ch3.dir/src/E10.cpp.o" "gcc" "CMakeFiles/Ch3.dir/src/E10.cpp.o.d"
   "/home/joe/Learn/C++/Exercises/Stroustrup/Ch3/src/E4.cpp" "CMakeFiles/Ch3.dir/src/E4.cpp.o" "gcc" "CMakeFiles/Ch3.dir/src/E4.cpp.o.d"
   "/home/joe/Learn/C++/Exercises/Stroustrup/Ch3/src/E6.cpp" "CMakeFiles/Ch3.dir/src/E6.cpp.o" "gcc" "CMakeFiles/Ch3.dir/src/E6.cpp.o.d"
   "/home/joe/Learn/C++/Exercises/Stroustrup/Ch3/src/E8.cpp" "CMakeFiles/Ch3.dir/src/E8.cpp.o" "gcc" "CMakeFiles/Ch3.dir/src/E8.cpp.o.d"

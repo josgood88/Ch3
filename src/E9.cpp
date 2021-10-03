@@ -3,6 +3,11 @@
 #include <map>
 #include <optional>
 
+// Exercise 9: Write a program that converts spelled out numbers such as "zero" and "two" into digits, 
+// such as 0 and 2. When the user inputs a number print out the corresponding digit. Do it for the 
+// values 0,1,2,3, and 4 and write out "not a number I know" if the user enters something that doesn't 
+// correspond, such as ``stupid computer!'' 
+
 namespace {
    enum string_value { zero, one, two, three, four};
    std::map<std::string,string_value> xlate_map = { 

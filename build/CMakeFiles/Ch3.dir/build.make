@@ -83,10 +83,24 @@ CMakeFiles/Ch3.dir/src/Ch3Main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Ch3.dir/src/Ch3Main.cpp.s"
 	/bin/x86_64-linux-gnu-g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/joe/Learn/C++/Exercises/Stroustrup/Ch3/src/Ch3Main.cpp -o CMakeFiles/Ch3.dir/src/Ch3Main.cpp.s
 
+CMakeFiles/Ch3.dir/src/E10.cpp.o: CMakeFiles/Ch3.dir/flags.make
+CMakeFiles/Ch3.dir/src/E10.cpp.o: ../src/E10.cpp
+CMakeFiles/Ch3.dir/src/E10.cpp.o: CMakeFiles/Ch3.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/joe/Learn/C++/Exercises/Stroustrup/Ch3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Ch3.dir/src/E10.cpp.o"
+	/bin/x86_64-linux-gnu-g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Ch3.dir/src/E10.cpp.o -MF CMakeFiles/Ch3.dir/src/E10.cpp.o.d -o CMakeFiles/Ch3.dir/src/E10.cpp.o -c /home/joe/Learn/C++/Exercises/Stroustrup/Ch3/src/E10.cpp
+
+CMakeFiles/Ch3.dir/src/E10.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Ch3.dir/src/E10.cpp.i"
+	/bin/x86_64-linux-gnu-g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/joe/Learn/C++/Exercises/Stroustrup/Ch3/src/E10.cpp > CMakeFiles/Ch3.dir/src/E10.cpp.i
+
+CMakeFiles/Ch3.dir/src/E10.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Ch3.dir/src/E10.cpp.s"
+	/bin/x86_64-linux-gnu-g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/joe/Learn/C++/Exercises/Stroustrup/Ch3/src/E10.cpp -o CMakeFiles/Ch3.dir/src/E10.cpp.s
+
 CMakeFiles/Ch3.dir/src/E4.cpp.o: CMakeFiles/Ch3.dir/flags.make
 CMakeFiles/Ch3.dir/src/E4.cpp.o: ../src/E4.cpp
 CMakeFiles/Ch3.dir/src/E4.cpp.o: CMakeFiles/Ch3.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/joe/Learn/C++/Exercises/Stroustrup/Ch3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Ch3.dir/src/E4.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/joe/Learn/C++/Exercises/Stroustrup/Ch3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Ch3.dir/src/E4.cpp.o"
 	/bin/x86_64-linux-gnu-g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Ch3.dir/src/E4.cpp.o -MF CMakeFiles/Ch3.dir/src/E4.cpp.o.d -o CMakeFiles/Ch3.dir/src/E4.cpp.o -c /home/joe/Learn/C++/Exercises/Stroustrup/Ch3/src/E4.cpp
 
 CMakeFiles/Ch3.dir/src/E4.cpp.i: cmake_force
@@ -100,7 +114,7 @@ CMakeFiles/Ch3.dir/src/E4.cpp.s: cmake_force
 CMakeFiles/Ch3.dir/src/E6.cpp.o: CMakeFiles/Ch3.dir/flags.make
 CMakeFiles/Ch3.dir/src/E6.cpp.o: ../src/E6.cpp
 CMakeFiles/Ch3.dir/src/E6.cpp.o: CMakeFiles/Ch3.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/joe/Learn/C++/Exercises/Stroustrup/Ch3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Ch3.dir/src/E6.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/joe/Learn/C++/Exercises/Stroustrup/Ch3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Ch3.dir/src/E6.cpp.o"
 	/bin/x86_64-linux-gnu-g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Ch3.dir/src/E6.cpp.o -MF CMakeFiles/Ch3.dir/src/E6.cpp.o.d -o CMakeFiles/Ch3.dir/src/E6.cpp.o -c /home/joe/Learn/C++/Exercises/Stroustrup/Ch3/src/E6.cpp
 
 CMakeFiles/Ch3.dir/src/E6.cpp.i: cmake_force
@@ -114,7 +128,7 @@ CMakeFiles/Ch3.dir/src/E6.cpp.s: cmake_force
 CMakeFiles/Ch3.dir/src/E8.cpp.o: CMakeFiles/Ch3.dir/flags.make
 CMakeFiles/Ch3.dir/src/E8.cpp.o: ../src/E8.cpp
 CMakeFiles/Ch3.dir/src/E8.cpp.o: CMakeFiles/Ch3.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/joe/Learn/C++/Exercises/Stroustrup/Ch3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Ch3.dir/src/E8.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/joe/Learn/C++/Exercises/Stroustrup/Ch3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Ch3.dir/src/E8.cpp.o"
 	/bin/x86_64-linux-gnu-g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Ch3.dir/src/E8.cpp.o -MF CMakeFiles/Ch3.dir/src/E8.cpp.o.d -o CMakeFiles/Ch3.dir/src/E8.cpp.o -c /home/joe/Learn/C++/Exercises/Stroustrup/Ch3/src/E8.cpp
 
 CMakeFiles/Ch3.dir/src/E8.cpp.i: cmake_force
@@ -128,7 +142,7 @@ CMakeFiles/Ch3.dir/src/E8.cpp.s: cmake_force
 CMakeFiles/Ch3.dir/src/E9.cpp.o: CMakeFiles/Ch3.dir/flags.make
 CMakeFiles/Ch3.dir/src/E9.cpp.o: ../src/E9.cpp
 CMakeFiles/Ch3.dir/src/E9.cpp.o: CMakeFiles/Ch3.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/joe/Learn/C++/Exercises/Stroustrup/Ch3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Ch3.dir/src/E9.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/joe/Learn/C++/Exercises/Stroustrup/Ch3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Ch3.dir/src/E9.cpp.o"
 	/bin/x86_64-linux-gnu-g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Ch3.dir/src/E9.cpp.o -MF CMakeFiles/Ch3.dir/src/E9.cpp.o.d -o CMakeFiles/Ch3.dir/src/E9.cpp.o -c /home/joe/Learn/C++/Exercises/Stroustrup/Ch3/src/E9.cpp
 
 CMakeFiles/Ch3.dir/src/E9.cpp.i: cmake_force
@@ -142,6 +156,7 @@ CMakeFiles/Ch3.dir/src/E9.cpp.s: cmake_force
 # Object files for target Ch3
 Ch3_OBJECTS = \
 "CMakeFiles/Ch3.dir/src/Ch3Main.cpp.o" \
+"CMakeFiles/Ch3.dir/src/E10.cpp.o" \
 "CMakeFiles/Ch3.dir/src/E4.cpp.o" \
 "CMakeFiles/Ch3.dir/src/E6.cpp.o" \
 "CMakeFiles/Ch3.dir/src/E8.cpp.o" \
@@ -151,13 +166,14 @@ Ch3_OBJECTS = \
 Ch3_EXTERNAL_OBJECTS =
 
 Ch3: CMakeFiles/Ch3.dir/src/Ch3Main.cpp.o
+Ch3: CMakeFiles/Ch3.dir/src/E10.cpp.o
 Ch3: CMakeFiles/Ch3.dir/src/E4.cpp.o
 Ch3: CMakeFiles/Ch3.dir/src/E6.cpp.o
 Ch3: CMakeFiles/Ch3.dir/src/E8.cpp.o
 Ch3: CMakeFiles/Ch3.dir/src/E9.cpp.o
 Ch3: CMakeFiles/Ch3.dir/build.make
 Ch3: CMakeFiles/Ch3.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/joe/Learn/C++/Exercises/Stroustrup/Ch3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable Ch3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/joe/Learn/C++/Exercises/Stroustrup/Ch3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable Ch3"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Ch3.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
