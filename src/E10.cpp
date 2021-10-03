@@ -44,4 +44,6 @@ namespace {
 void Exercises::E10() { 
    IsCorrect("+ 100 3.14",103.14);
    IsCorrect("* 4 5",20);
+   IsCorrect("- 4 5",-1);
+   IsCorrect("/ 4 5",0.8);
 }
